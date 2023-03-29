@@ -15,7 +15,7 @@ The chatbot is built using a Deep Neural Network (DNN) with the help of the TFLe
 1. Clone or download the notebook to your local machine.
 2. Run the code by the command:
  ```
- 
+ python deep_learn_main.py
  ```
 3. Make sure all the dependencies are installed.
 4. Run the code blocks to train and save the model.
